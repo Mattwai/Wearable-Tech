@@ -1,0 +1,115 @@
+* {
+    background-color: #dedede;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+a {
+    background-color: #6a6262;
+}
+
+
+li a:hover {
+    background-color: #e54b4b;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    overflow: hidden;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+
+li {
+    border-bottom: 10px solid #bbb;
+}
+
+li:first-child {
+    border-top: 40px solid #bbb;
+}
+
+li:last-child {
+    border-bottom: 435px solid #bbb;
+}
+
+.title {
+    text-align: center;
+    width: 89%;
+    float: right;
+    padding-right: 30px;
+}
+
+.text {
+    float: left;
+    font-size: 30px;
+    width: 50%;
+    padding-left: 70px;
+}
+
+.photos {
+    width: 30%;
+    float: right;
+}
+
+#applewatch {
+    width: 100%;
+
+}
+
+#vr {
+    width: 100%;
+}
+
+.text2 {
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.text22 {
+    width: 40%;
+    float: right;
+    font-size: 16px;
+    padding-left: 10px;
+
+}
+
+.fit {
+    width: 100%;
+}
+
+#tracker {
+    float: left;
+    width: 48%;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+
+}
+
+.vid {
+    width: 86%;
+    float: left;
+    padding-left: 40px;
+}
+
+#watchvid {
+    width: 100%;
+}
+
+#title1 {
+    font-size: 25px;
+}
+
